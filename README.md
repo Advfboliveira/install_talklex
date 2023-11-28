@@ -38,7 +38,7 @@ Email válido para certificação SSL
 
     CANAL VEM FAZER LTDA
 
-    Fone: 81 99627-7285(WhatsApp)
+    Fone: 71 9 9975-3582(WhatsApp)
 
 
 ## Se o conteúdo te ajudou ajude este projeto:
@@ -47,7 +47,7 @@ Email válido para certificação SSL
 <div align="center">
     <h3>Ajude com qualquer valor</h3>
   <a href="URL BANCO" target="_blank" rel="noopener noreferrer">
-    <img src="./public/images/nubank.jpeg" style="width: 50% !important;">
+    <img src="./public/images/nubank.j" style="width: 50% !important;">
   </a>
 </div>
 
