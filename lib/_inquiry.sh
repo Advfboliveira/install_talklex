@@ -201,7 +201,7 @@ software_dominio() {
 inquiry_options() {
   
   print_banner
-  printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador Canal TalkLex, selecione abaixo a proxima ação!${GRAY_LIGHT}"
+  printf "${GREEN} 💻 Bem vindo(a) ao Gerenciador Canal TalkLex, selecione abaixo a proxima ação!${GRAY_LIGHT}"
   printf "\n\n"
   printf "   [0] Instalar Canal TalkLex\n"
   printf "   [1] Atualizar Canal TalkLexP\n"
